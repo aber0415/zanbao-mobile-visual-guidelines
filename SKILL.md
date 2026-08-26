@@ -12,7 +12,7 @@ Use this skill as the visual source of truth for Zanbao mobile UI work. Read [`r
 1. Inspect the existing product UI and identify the target screen/component.
 2. Read `references/visual-rules.md`; reuse its tokens before creating new values.
 3. Build or review the UI using the supplied rules and assets.
-4. Run `./scripts/start-preview.sh` and inspect the page at `1920 × 1080`.
+4. Run `bash ./scripts/start-preview.sh` and inspect the page at `1920 × 1080`.
 5. Check the four fixed `375 × 812` examples, typography, spacing, card surfaces, Cell sizing, input sizing, icons, and bottom navigation before handoff.
 
 ## Non-negotiable tokens
