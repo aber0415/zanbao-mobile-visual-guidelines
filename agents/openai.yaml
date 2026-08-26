@@ -1,0 +1,5 @@
+interface:
+  display_name: "赞宝移动端视觉规范"
+  short_description: "Use Zanbao mobile UI tokens and examples"
+  default_prompt: "Use $zanbao-mobile-visual-guidelines to build or review a mobile UI that follows the Zanbao visual system."
+  brand_color: "#1F5DF2"
